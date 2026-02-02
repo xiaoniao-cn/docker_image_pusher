@@ -7,4 +7,4 @@ xhofe/alist:latest
 vllm/vllm-openai
 atinoda/text-generation-webui
 ollama/ollama
-xxxxrt666/gpt-sovits
+breakstring/gpt-sovits
